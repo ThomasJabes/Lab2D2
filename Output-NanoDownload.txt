@@ -1,0 +1,18 @@
+﻿
+D:\VISITANTE\Documents\Atmel Studio\7.0\LCD8>"D:\VISITANTE\Documents\Atmel Studio\avrdude-batch\\bin\avrdude.exe" -C"D:\VISITANTE\Documents\Atmel Studio\avrdude-batch\\bin\avrdude.conf" -v -patmega328p -carduino -PCOM14 -b115200 -D -Uflash:w:"D:\VISITANTE\Documents\Atmel Studio\7.0\LCD8\LCD8\Debug\LCD8.hex":i 
+
+avrdude.exe: Version 6.3-20171130
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2014 Joerg Wunsch
+
+             System wide configuration file is "D:\VISITANTE\Documents\Atmel Studio\avrdude-batch\\bin\avrdude.conf"
+
+             Using Port                    : COM14
+             Using Programmer              : arduino
+             Overriding Baud Rate          : 115200
+avrdude.exe: ser_open(): can't open device "\\.\COM14": Acceso denegado.
+
+
+
+avrdude.exe done.  Thank you.
+
